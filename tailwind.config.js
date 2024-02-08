@@ -8,14 +8,11 @@ export default {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        libre: ['play', ...defaultTheme.fontFamily.sans]
-      },
       colors: {
-        'primary': '#F2AFEF',
-        'secondary': '#C499F3',
+        'primary': '#FFD0EC',
+        'secondary': '#474F7A',
         'accent': '#7360DF',
-        'bg': '#33186B',
+        'bg': '#1F2544',
       }
     }
   },
